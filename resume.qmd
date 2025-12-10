@@ -3,7 +3,7 @@ layout: cv
 title: Esther Scott's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+student, not expert- just here trying to figure out what im doing.
 
 <div id="https://github.com/okestherrr/DS250Repository">
 <a href="scottes@byui.edu">isaac@applesdofall.org</a>
